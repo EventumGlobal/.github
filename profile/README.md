@@ -152,47 +152,6 @@ Our event platforms can bring together:
 
 ---
 
-## 🛠️ Technology
-
-Our platforms are built using modern technologies and engineering practices.
-
-### Backend
-
-- .NET
-- ASP.NET Core
-- C#
-- REST APIs
-
-### Frontend
-
-- Next.js
-- React
-- TypeScript
-- Modern responsive UI
-
-### Data & Infrastructure
-
-- Microsoft SQL Server
-- Docker
-- Linux
-- Cloud & VPS infrastructure
-
-### AI & Automation
-
-- AI-powered services
-- Intelligent chat experiences
-- Automated workflows
-- Event notifications and integrations
-
-### DevOps
-
-- GitHub
-- GitHub Actions
-- CI/CD
-- Containerized deployments
-
----
-
 ## 🌍 What We Build
 
 Eventum Global focuses on technology for:
